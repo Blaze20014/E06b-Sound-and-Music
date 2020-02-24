@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Hot diggity dog.wav-6633b8f0d30df375bf202de1b2577266.sample"
+
+[deps]
+
+source_file="res://Hot diggity dog.wav"
+dest_files=[ "res://.import/Hot diggity dog.wav-6633b8f0d30df375bf202de1b2577266.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
